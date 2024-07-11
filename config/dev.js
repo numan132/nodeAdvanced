@@ -5,5 +5,7 @@ module.exports = {
   mongoURI:
     'mongodb+srv://admin:admin@advancednode.70wfqm2.mongodb.net/?retryWrites=true&w=majority&appName=AdvancedNode',
   cookieKey: '123123123',
-  redisURL: 'redis://127.0.0.1:6379'
+  redisURL: 'redis://127.0.0.1:6379',
+  accessKeyId: 'AKIA3FLD34SVTTYKEMEK',
+  secretAccessKey: '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'
 };
